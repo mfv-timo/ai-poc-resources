@@ -1,6 +1,6 @@
 Innovating with AI: MoneyForward Vietnam’s AI Hackathon 2025 Ignites Creativity and Efficiency
 
-On August 15, 2025, MoneyForward Vietnam hosted one of its most anticipated internal technology events of the year: the AI Hackathon 2025. This competition brought together approximately 16 talented teams from across the company, uniting engineers, product managers, designers, and AI enthusiasts under one ambitious theme: leveraging AI tools and platforms to enhance software products or improve work efficiency.
+On August 15, 2025, MoneyForward Vietnam hosted one of its most anticipated internal technology events of the year: the AI Hackathon 2025. This competition brought together approximately 75 talented members from across the company, uniting engineers, product managers, designers, and AI enthusiasts under one ambitious theme: leveraging AI tools and platforms to enhance software products or improve work efficiency.
 
 This event served as a dynamic platform for innovation, showcasing how artificial intelligence can accelerate digital transformation and empower employees to reimagine the future of MoneyForward’s software solutions.
 
@@ -18,7 +18,7 @@ Enhancing operational efficiency by automating processes or improving decision-m
 Fostering a culture of innovation, where creative thinking and technological advancement thrive together.
 
 The Event Structure
-The AI Hackathon was designed as a one-day sprint where 16 teams competed for top honors. Each team was given the freedom to choose its own project idea, as long as it aligned with the central theme of AI application.
+The AI Hackathon was designed as a one-day sprint where 6 solo-teams and 16 teams (total 75 members) competed for top honors. Each team was given the freedom to choose its own project idea, as long as it aligned with the central theme of AI application.
 
 Morning Session: Kick-off and Brainstorming
 The event started with opening remarks from the MoneyForward Vietnam leadership team, highlighting the importance of AI in shaping the company’s future. Representatives from the AI R&D division provided a brief workshop on available AI platforms, APIs, and cloud-based tools that could be leveraged during the competition.
