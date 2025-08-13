@@ -1,0 +1,93 @@
+Innovating with AI: MoneyForward Vietnam’s AI Hackathon 2025 Ignites Creativity and Efficiency
+
+On August 15, 2025, MoneyForward Vietnam hosted one of its most anticipated internal technology events of the year: the AI Hackathon 2025. This competition brought together approximately 16 talented teams from across the company, uniting engineers, product managers, designers, and AI enthusiasts under one ambitious theme: leveraging AI tools and platforms to enhance software products or improve work efficiency.
+
+This event served as a dynamic platform for innovation, showcasing how artificial intelligence can accelerate digital transformation and empower employees to reimagine the future of MoneyForward’s software solutions.
+
+Purpose and Vision of the Hackathon
+The financial technology landscape is evolving rapidly, and MoneyForward is at the forefront of delivering innovative solutions for both individuals and businesses. Recognizing the transformative power of AI, MoneyForward Vietnam organized this hackathon to encourage employees to explore real-world AI applications.
+
+The core objectives of the AI Hackathon 2025 included:
+
+Encouraging cross-functional collaboration among employees to experiment with AI-driven features.
+
+Identifying opportunities to integrate AI tools and platforms into existing MoneyForward products.
+
+Enhancing operational efficiency by automating processes or improving decision-making with data-driven AI systems.
+
+Fostering a culture of innovation, where creative thinking and technological advancement thrive together.
+
+The Event Structure
+The AI Hackathon was designed as a one-day sprint where 16 teams competed for top honors. Each team was given the freedom to choose its own project idea, as long as it aligned with the central theme of AI application.
+
+Morning Session: Kick-off and Brainstorming
+The event started with opening remarks from the MoneyForward Vietnam leadership team, highlighting the importance of AI in shaping the company’s future. Representatives from the AI R&D division provided a brief workshop on available AI platforms, APIs, and cloud-based tools that could be leveraged during the competition.
+
+Teams then spent the early hours brainstorming solutions, defining their project scopes, and assigning roles.
+
+Afternoon Session: Development Sprint
+Throughout the afternoon, teams worked intensively to build working prototypes. Some teams focused on integrating AI-driven chatbots for customer support, while others experimented with predictive analytics for personal finance recommendations. A few groups tackled internal efficiency challenges, such as using AI-based document summarization for finance reports or automation of QA processes for software testing.
+
+Evening Session: Demos and Judging
+In the evening, each team had five minutes to present their solution to a judging panel consisting of senior engineers, product managers, and AI experts. The judging criteria included:
+
+Innovation: originality of the concept.
+
+Practicality: potential for real-world implementation.
+
+Technical Execution: quality of the prototype and effective use of AI tools.
+
+Impact: potential improvement in product value or work efficiency.
+
+Highlights and Standout Projects
+While every team showcased creativity, several projects stood out:
+
+AI-Powered Expense Categorization
+One team developed a machine learning model capable of automatically categorizing financial transactions with high accuracy, significantly reducing manual classification tasks for users.
+
+Automated Meeting Summarizer
+Another team created an AI service that integrates with online meeting platforms and generates concise, actionable meeting summaries using natural language processing (NLP). This solution addressed internal workflow efficiency and drew enthusiastic responses from judges.
+
+Personalized Financial Advice Chatbot
+A group explored the integration of generative AI models to provide personalized financial advice in a conversational interface. The chatbot could answer user questions and suggest budgeting strategies based on financial patterns.
+
+AI-based Bug Detection for Code Repositories
+One ambitious team built an AI assistant capable of scanning code repositories, identifying potential bugs, and suggesting fixes, aiming to enhance the productivity of MoneyForward’s development teams.
+
+Culture of Innovation and Collaboration
+What made the AI Hackathon special was not just the technology but the spirit of collaboration and experimentation it fostered. Developers worked side by side with designers and product managers, combining diverse skill sets to deliver functional prototypes within a single day.
+
+According to one participant, “The hackathon gave us the freedom to explore AI without the usual constraints of project deadlines. It was exciting to see how quickly we could prototype ideas when we focused solely on innovation.”
+
+The leadership team emphasized how events like these contribute to the company’s culture: “Innovation is at the heart of MoneyForward’s growth. By empowering employees to explore AI technologies in this fast-paced format, we open the door to ideas that can reshape both our products and the way we work.”
+
+Impact Beyond the Event
+Though the hackathon concluded with awards and celebrations, its impact will continue well beyond a single day. Several teams’ projects have been shortlisted for further exploration and potential integration into MoneyForward’s product roadmap.
+
+The company also plans to document key learnings from the hackathon, focusing on:
+
+Best practices in quickly adopting AI platforms like OpenAI, Google Vertex AI, or AWS AI services.
+
+Approaches to applying machine learning and generative AI to fintech-specific use cases.
+
+Effective collaboration techniques for cross-functional teams in innovation settings.
+
+Winners and Awards
+The top three winning teams were celebrated for their ingenuity and technical execution:
+
+First Prize: AI-Powered Expense Categorization (for its high immediate business value).
+
+Second Prize: Automated Meeting Summarizer (for enhancing internal productivity).
+
+Third Prize: Personalized Financial Advice Chatbot (for advancing customer experience).
+
+Winners received symbolic prizes, certificates, and most importantly, recognition across the company for their creative contributions.
+
+Looking Forward
+The AI Hackathon 2025 exemplifies MoneyForward Vietnam’s commitment to embracing emerging technologies and nurturing an innovative mindset among its employees. As AI continues to reshape industries, internal events like these are crucial in ensuring organizations stay agile and ready to adopt new capabilities.
+
+By giving employees the space to experiment with AI-driven ideas, MoneyForward Vietnam not only builds stronger, smarter products but also inspires a new wave of digital-first thinking—a key differentiator in today’s competitive fintech landscape.
+
+For the participants, it was more than just a competition; it was a chance to imagine the future, collaborate with peers, and showcase their skills in solving meaningful problems with AI.
+
+As one judge concluded: “This hackathon is proof that when you combine talent, curiosity, and the right technology, innovation happens faster than ever before.”
